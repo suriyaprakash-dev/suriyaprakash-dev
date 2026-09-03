@@ -10,7 +10,7 @@
 
 <p>
 
-<a href="https://suriyaprakash-portfolio.vercel.app">
+<a href="https://suriyaprakash-dev.github.io/my-profile/">
 <img src="https://img.shields.io/badge/PORTFOLIO-0B1020?style=for-the-badge&logo=googlechrome&logoColor=00D9FF">
 </a>
 
